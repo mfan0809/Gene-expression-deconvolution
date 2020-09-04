@@ -1,5 +1,5 @@
 # Genomic subclone identification using gene expression deconvolution method
-This work was performed using publicly available CAM method, and the detailed instruction of the instalment is illustrated in website:
+Genomic subclone was identified using publicly available CAM method, and the detailed instruction of the instalment is illustrated in website:
 https://bioconductor.org/packages/release/bioc/html/CAMTHC.html
 
 #Installment
