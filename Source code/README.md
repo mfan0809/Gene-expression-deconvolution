@@ -1,4 +1,4 @@
-This work was performed using publicly available CAM method, and the detailed instruction of the instalment is illustrated in website:
+Genomic subclone is identified using CAM method, and the detailed instruction of the instalment is illustrated in website:
 https://bioconductor.org/packages/release/bioc/html/CAMTHC.html
 
 To install package of CAM method that performed gene expression decomposition, start R (version "4.0") and enter:
